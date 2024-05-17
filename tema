@@ -12,7 +12,7 @@
         "id": 3808,
         "label": "Logo do app",
         "name": "APP_LOGO",
-        "value": "https://raw.githubusercontent.com/TelksBr/SSH-T-PROJECT-VPN/main/IC/baixados.png",
+        "value": "https://raw.githubusercontent.com/TelksBr/SSH-T-PROJECT-VPN/main/IC/baixado.png",
         "type": "IMAGE",
         "status": "ACTIVE",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
@@ -51,7 +51,7 @@
         "id": 3811,
         "label": "Cor de fundo",
         "name": "APP_BACKGROUND_COLOR",
-        "value": "#14142c",
+        "value": "191970",
         "type": "COLOR",
         "status": "ACTIVE",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
